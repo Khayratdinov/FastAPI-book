@@ -1,9 +1,10 @@
 
 
-## Chapter 3: Response Models and Error Handling
+## Chapter 4: Templating in FastAPI
 
-- Technical requirements
-- Understanding routing in FastAPI
-- Building response models
-- Error handling
-- Summary
+- Understanding Jinja ✅
+- Using Jinja templates in FastAPI ✅
+
+### Todo Demo
+
+<img src="assets/Chapter-04-FastAPI.png">
